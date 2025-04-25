@@ -28,6 +28,4 @@
 
 ### Connect with me on LinkedIn!
 
-[![Linkedin Badge]() 
-
 <!---->
